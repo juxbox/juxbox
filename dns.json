@@ -1,9 +1,16 @@
 {
 	"RTX_MODE": [
 		{
-			"DNSName": "TITAN PANEL",
-			"DNSUrl": "http://nxs4k.xyz:8080"
+			"SettingName": "app_type",
+			"Action": "hardcoded"
+		},
+		{
+			"SettingName": "panelURL",
+			"Action": "http://nxs4k.xyz:8080/api/"
+		},
+		{
+			"SettingName": "appname",
+			"Action": "RTX Rebrand"
 		}
 	]
-
 }
