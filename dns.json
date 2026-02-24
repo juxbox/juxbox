@@ -1,6 +1,14 @@
 {
 	"RTX_MODE": [
 		{
+			"SettingName": "app_type",
+			"Action": "hardcoded"
+		},
+		{
+			"SettingName": "appname",
+			"Action": "Juxbox TV"
+		},
+		{
 			"SettingName": "panelURL",
 			"Action": "http://nxs4k.xyz:8080/"
 		}
