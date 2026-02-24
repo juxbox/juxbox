@@ -43,7 +43,7 @@
 		{
 			"SettingName": "support_phone",
 			"Action": ""
-		},
+        },
 		{
 			"SettingName": "versioncode",
 			"Action": "801"
@@ -83,10 +83,6 @@
 		{
 			"SettingName": "stream_type",
 			"Action": "ts"
-		},
-		{
-			"SettingName": "apkautoupdate",
-			"Action": "no"
 		},
 		{
 			"SettingName": "player",
