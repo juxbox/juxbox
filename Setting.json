@@ -1,0 +1,120 @@
+{
+	"RTX_MODE": [
+		{
+			"SettingName": "app_type",
+			"Action": "panel"
+		},
+		{
+			"SettingName": "panelURL",
+			"Action": "http://nxs4k.xyz:8080"
+		},
+		{
+			"SettingName": "rtx_appversion",
+			"Action": "1"
+		},
+		{
+			"SettingName": "show_dev_message",
+			"Action": "off"
+		},
+		{
+			"SettingName": "support_email",
+			"Action": ""
+		},
+		{
+			"SettingName": "login_theme",
+			"Action": "2"
+		},
+		{
+			"SettingName": "dash_theme",
+			"Action": "d"
+		},
+		{
+			"SettingName": "slider_tital",
+			"Action": "on"
+		},
+		{
+			"SettingName": "slider_ScrollTime",
+			"Action": "5"
+		},
+		{
+			"SettingName": "show_expr",
+			"Action": "yes"
+		},
+		{
+			"SettingName": "support_phone",
+			"Action": ""
+		},
+		{
+			"SettingName": "versioncode",
+			"Action": "801"
+		},
+		{
+			"SettingName": "apkurl",
+			"Action": "https://download.ottrun.com/downloads/521064/XCIPTV-5.0.1-v706.apk"
+		},
+		{
+			"SettingName": "apkautoupdate",
+			"Action": "no"
+		},
+		{
+			"SettingName": "agent",
+			"Action": "XCIPTV-v6.0"
+		},
+		{
+			"SettingName": "admob_interstitial_id",
+			"Action": "no"
+		},
+		{
+			"SettingName": "AdMob_enabled",
+			"Action": "no"
+		},
+		{
+			"SettingName": "appname",
+			"Action": "TITAN XCIP"
+		},
+		{
+			"SettingName": "admob_banner_id",
+			"Action": "no"
+		},
+		{
+			"SettingName": "panel",
+			"Action": "xtreamcodes"
+		},
+		{
+			"SettingName": "stream_type",
+			"Action": "ts"
+		},
+		{
+			"SettingName": "apkautoupdate",
+			"Action": "no"
+		},
+		{
+			"SettingName": "player",
+			"Action": "EXO"
+		},
+		{
+			"SettingName": "whichplayer_catchup",
+			"Action": "EXO"
+		},
+		{
+			"SettingName": "whichplayer_vod",
+			"Action": "EXO"
+		},
+		{
+			"SettingName": "whichplayer_series",
+			"Action": "EXO"
+		},
+		{
+			"SettingName": "whichplayer_ms",
+			"Action": "EXO"
+		},
+		{
+			"SettingName": "whichplayer_tv",
+			"Action": "EXO"
+		},
+		{
+			"SettingName": "language",
+			"Action": "ace"
+		}
+	]
+}
