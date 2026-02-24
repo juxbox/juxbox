@@ -2,11 +2,11 @@
 	"RTX_MODE": [
 		{
 			"SettingName": "app_type",
-			"Action": "hardcoded"
+			"Action": "panel"
 		},
 		{
 			"SettingName": "appname",
-			"Action": "Juxbox TV"
+			"Action": "RTX Rebrand"
 		},
 		{
 			"SettingName": "panelURL",
@@ -14,3 +14,4 @@
 		}
 	]
 }
+
